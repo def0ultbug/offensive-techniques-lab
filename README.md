@@ -73,11 +73,6 @@ offensive-techniques-lab/
 
 ## 🔐 Ethical Usage
 
-This repository is intended for:
-- Preparing for certifications like **eJPT**, **CRTP**, **OSCP**
-- Learning how malware works to better **defend** against it
-- Understanding attacker techniques from a **red team / blue team** perspective
-
 **Always test in an isolated lab environment.**
 
 ## 📄 License
